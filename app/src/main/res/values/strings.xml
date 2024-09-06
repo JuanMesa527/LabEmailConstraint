@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab constraint</string>
+    <string name="to_label">To:</string>
+    <string name="email_address">enter email address</string>
+    <string name="subject_hint">subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">send</string>
+</resources>
